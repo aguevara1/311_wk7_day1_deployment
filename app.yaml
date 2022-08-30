@@ -1,4 +1,4 @@
-runtime: nodejs10
+runtime: nodejs16
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: project1-321203:us-central1:admin

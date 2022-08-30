@@ -1,3 +1,4 @@
+require('dotenv').config(); //Loads environment variables from .env file
 const express = require("express");
 const bodyParser = require("body-parser");
 const usersRouter = require('./routers/users');
